@@ -1,8 +1,11 @@
 ## Ola eu o João Henrique!
-<div>
+
+## 📊 Github stats
+
+<p align="center">
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Jaums2s2&count_private=true&show_icons=true&theme=midnight-purple">
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaums2s2&layout=compact&theme=midnight-purple">
-</div>
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
