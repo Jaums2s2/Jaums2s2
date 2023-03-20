@@ -4,10 +4,9 @@
 </h3>
 
 <p align="center">
-<a href="https://discord.com/users/6594">
-<img title="Discord Presence" src="https://discord-readme-badge.zohan.tech/api?id=6594">
-</a>
-</p>
+<a href="https://discord.com/users/654457566407032842">
+<img title="Discord Presence" src="https://discord-readme-badge.vercel.app/api?id=654457566407032842">
+</a></p>
 
 ## 📊 Github stats
 
