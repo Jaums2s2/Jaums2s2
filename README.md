@@ -8,6 +8,13 @@
 <img title="Discord Presence" src="https://discord-readme-badge.vercel.app/api?id=654457566407032842">
 </a></p>
 
+<p align="center">
+  <a href = "mailto:joao.cavalcantex05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-henrique-93b35316a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://t.me/Jaums2s2" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5511971256852" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+</p>
+
 ## 📊 Github stats
 
 <p align="center">
@@ -48,11 +55,6 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-<div> 
-  <a href = "mailto:joao.cavalcantex05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-henrique-93b35316a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 <a href="https://github.com/Jaums2s2" align="center">
   <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Jaums2s2&repo=Jaums2s2&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
