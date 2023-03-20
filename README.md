@@ -1,7 +1,7 @@
 ## Ola eu o João Henrique!
 <div>
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Jaums2s2&count_private=true&show_icons=true&theme=radical">
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaums2s2&layout=compact&theme=radical">
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Jaums2s2&count_private=true&show_icons=true&theme=midnight-purple">
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaums2s2&layout=compact&theme=midnight-purple">
 </div>
 
 <div style="display: inline_block"><br>
@@ -13,6 +13,8 @@
   <img align="center" alt="Joao-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 </div>
+
+##
 
 <div> 
   <a href = "mailto:joao.cavalcantex05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
