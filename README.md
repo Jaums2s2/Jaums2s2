@@ -23,3 +23,7 @@
   <a href = "mailto:joao.cavalcantex05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-henrique-93b35316a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
+  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Jaums2s2&repo=Jaums2s2&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</a>
