@@ -18,8 +18,8 @@
 ## 📊 Github stats
 
 <p align="center">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=joao-cavalcante&count_private=true&show_icons=true&theme=midnight-purple">
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-cavalcante&layout=compact&theme=midnight-purple">
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=joao-cavalcante&count_private=true&theme=midnight-purple">
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-cavalcante&theme=midnight-purple">
 </p>
 
 ## 🛠️ My favorite tools
